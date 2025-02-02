@@ -45,6 +45,9 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
+![image](https://github.com/user-attachments/assets/5cd41a5e-2a13-43f2-8a3f-f3183475561f)
+*issueWiz Landing Page*
+
 ![Screenshot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
