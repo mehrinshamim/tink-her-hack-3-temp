@@ -14,21 +14,28 @@
 https://issue-wiz.vercel.app/
 
 ### Project Description
-[2-3 lines about what your project does]
+IssueWiz is an AI-powered platform designed to lower the barrier to entry for open-source contributions by providing intelligent issue analysis, personalized recommendations, and contextual documentation. The system helps both newcomers and experienced developers navigate complex codebases and find suitable issues to work on.
+
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Contributing to open-source projects can be daunting, especially for beginners. The complexity of understanding codebases, identifying relevant files, and navigating through sparse or overwhelming documentation creates barriers to entry .
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+IssueWiz simplifies this process by providing the following:
+
+- **Issue Analysis Engine** : Analyzes issues, identifies relevant files, and generates contextual documentation with interactive guidance.
+- **Skill-Based Issue Matcher** : Matches users' skills with suitable issues, providing ranked recommendations for both learning and contribution.
+- **Interactive Learning Assistant** : Offers real-time, AI-driven assistance for understanding code, troubleshooting, and improving development practices.
+By lowering these barriers, IssueWiz makes open-source contributions more accessible and engaging for developers of all levels.
+
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- **Languages used**: Python, TypeScript
+- **Frameworks used**: FastAPI, Next.js
+- **Libraries used**: GitHub API, OpenAI API, SentenceTransformer,ThreadPoolExecuter, aiohttp, numpy
+- **Tools used**: Render, Vercel
 
 For Hardware:
 - No hardware used in this project.
@@ -92,9 +99,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- **Mehrin**: Developed the backend with FastAPI and integrated Supabase for user data and authentication.
+- **Diya**: Worked on the frontend development using Next.js, integrating the GitHub API for issue tracking, and AI-powered documentation.
+- **Aswathy**: Implemented SentenceTransformer - deeplearning model for issue mapping and code analysis .
 
 ---
 Made with ❤️ at TinkerHub
