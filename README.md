@@ -42,12 +42,34 @@ For Hardware:
 
 ### Implementation
 For Software:
-# Installation
-[commands]
+#### Installation
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/issuewiz.git
+cd issuewiz
 
-# Run
-[commands]
+# Install dependencies
+pip install -r requirements.txt
+npm install
 
+# Set up environment variables (GitHub API, OpenAI API, etc.)
+# Create a `.env` file and add necessary keys
+
+# Start the backend server
+uvicorn backend.main:app --reload
+
+# Start the frontend server
+npm run dev
+```
+
+#### Run
+```bash
+# Backend
+uvicorn backend.main:app --reload
+
+# Frontend
+npm run dev
+```
 ### Project Documentation
 For Software:
 
@@ -65,13 +87,9 @@ For Software:
 *Issue matcher*
 
 ![image](https://github.com/user-attachments/assets/295f3dfe-59d6-465a-9009-c6a0e8ae6907)
-**
+*issue recommendation page*
 
 
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
 For Hardware:
 
