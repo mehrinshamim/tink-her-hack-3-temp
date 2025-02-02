@@ -9,7 +9,7 @@
 - Member 1: Mehrin Fathima Shamim - Government Model Engineering College, Thrikkakara
 - Member 2: Diya Jojo - Government Model Engineering College, Thrikkakara
 - Member 3: Aswathy S Ajith - Government Model Engineering College, Thrikkakara
-- 
+  
 ### Hosted Project Link
 https://issue-wiz.vercel.app/
 
