@@ -1,17 +1,17 @@
-# [Project Name] 🎯
+# issueWiz 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Bonito Flakes
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
-
+- Member 1: Mehrin Fathima Shamim - Government Model Engineering College, Thrikkakara
+- Member 2: Diya Jojo - Government Model Engineering College, Thrikkakara
+- Member 3: Aswathy S Ajith - Government Model Engineering College, Thrikkakara
+- 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://issue-wiz.vercel.app/
 
 ### Project Description
 [2-3 lines about what your project does]
@@ -31,9 +31,7 @@ For Software:
 - [Tools used]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- No hardware used in this project.
 
 ### Implementation
 For Software:
