@@ -58,11 +58,16 @@ For Software:
 ![image](https://github.com/user-attachments/assets/9a22aa07-a260-46ef-a091-e29d4f0a006b)
 *issueWiz features*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![image](https://github.com/user-attachments/assets/7586f338-5bbf-4fc8-b916-b16d2bdf979e)
+*Repository analysis*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![image](https://github.com/user-attachments/assets/25c5e572-b148-4f46-a49d-e42c6dab1a2e)
+*Issue matcher*
+
+![image](https://github.com/user-attachments/assets/295f3dfe-59d6-465a-9009-c6a0e8ae6907)
+**
+
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
